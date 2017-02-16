@@ -139,4 +139,5 @@ _N/A_ | `git push origin master`
 
  - http://nvie.com/posts/a-successful-git-branching-model/
  - https://help.github.com/articles/using-pull-requests#shared-repository-model
- - Personal experience
+ - https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac
+
